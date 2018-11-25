@@ -342,5 +342,7 @@ CHAPTER 2 - LESSON 2 - HTML comments
 <link> allows you to link seperate CSS stylesheets
   to your HTML pages
   
+use <link> to connect "structure.css" to "ch2-lesson-1.html"
+
 
 
