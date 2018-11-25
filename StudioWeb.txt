@@ -333,9 +333,14 @@ Starts at the Top to Down
 Top Down has a huge impact
 
 
+----------------------------------------------
+CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS 
+----------------------------------------------
+CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS 
+----------------------------------------------
 
 ----------------------------------------------
-CHAPTER 2 - LESSON 2 - HTML comments
+CHAPTER 2 - LESSON 2 - External CSS
 ----------------------------------------------
 
 <link> is not the same as <a> tags
@@ -344,5 +349,36 @@ CHAPTER 2 - LESSON 2 - HTML comments
   
 use <link> to connect "structure.css" to "ch2-lesson-1.html"
 
+<link> allows you to connect CSS stylesheets to your 
+HTML pages to keep your HTML pages clean
 
+----------------------------------------------
+CHAPTER 2 - LESSON 3 - External CSS and Cleaner Code
+----------------------------------------------
+
+<link href="#"> "#" = place holder; use when you 
+ don't want to put an actual value
+
+use HTML comments <!-- --> to help identify tags
+
+indenting makes code look clearer, use the tab key
+
+----------------------------------------------
+CHAPTER 2 - LESSON 4 - <nav> tag & semantic meaning
+----------------------------------------------
+
+IMPORTANT: have self-describing codes;
+ codes that tell you what they are
+
+<h1> tag is the most important tag
+
+HTML also describes the information that is in the page
+
+<h1><p><ol> tags are the semantic meaning of the tags
+semantic = logical; acceptable
+
+<div> is a basic tag, but no information
+
+HTML provides more tags with semantic meaning. 
+<nav> tag is navigation for the page
 
