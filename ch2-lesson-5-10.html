@@ -4,36 +4,29 @@
 	<title>Chapter 2 CSS Tutorial - No CSS Applied</title>
 	<meta charset="UTF-8"> 
 	<link href="structure.css" rel="stylesheet">
+	<style type="text/css">
+		
+		/* 
+		http://www.w3schools.com/html/html_colornames.asp
+		*/
+		
+		h1 {
+			color: #9FBBD1;
+			color: red;
+			color: rgb(0,0,255);
 
+			text-transform:capitalize;
+			text-decoration: underline;
+		}
+		
+		p {
+			text-indent: 50px;	
+			text-align: justify;
 
-
-
-<style type="text/css">
-
-/* 
-http://www.w3schools.com/html/html_colornames.asp
-*/
-
-	h1 {
-		color: #9FBBD1;
-		color: red;
-		color: rgb(0,0,255);
-
-		text-transform:capitalize;
-		text-decoration: underline;
-	}
-
-	p {
-		text-indent: 50px;	
-		text-align: justify;
-
-	}
-
-</style>
-
-
+		}
+		
+	</style>
 </head>
-
 <body>
 
 <div id="centerDoc">
@@ -64,7 +57,7 @@ http://www.w3schools.com/html/html_colornames.asp
 
 </div><!-- closing centerDoc  -->
 
-<nav id="navigation">
+<nav>
 	<h2>The Main navigation</h2>
 	<ul>
 		<li><a href=#>Home</a></li> 
