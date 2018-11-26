@@ -429,3 +429,20 @@ code inside of comments are ignored by browsers
 4) hsl;
 
 browsers read your code from the top down
+
+----------------------------------------------
+CHAPTER 2 - LESSON 10 - CSS Styling text
+----------------------------------------------
+
+h1 { text-transform: uppercase,lowercase,capitalize;
+text-align: left,right,center,justify;
+text-decoration: underline; }
+
+p { text-indent: 30px;}
+
+----------------------------------------------
+CHAPTER 2 - LESSON 11 
+- CSS Styling text - font weight - part 1
+----------------------------------------------
+
+
