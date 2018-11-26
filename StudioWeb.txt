@@ -445,4 +445,14 @@ CHAPTER 2 - LESSON 11
 - CSS Styling text - font weight - part 1
 ----------------------------------------------
 
+p { font-style: italic;
+    font-weight: bold,normal;
+}
+
+by deafult all headings <h1> will display text in bold
+
+use CSS to override the default or 
+automatic settings of your tag
+
+some CSS values do not work - that's life
 
