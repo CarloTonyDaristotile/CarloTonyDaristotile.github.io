@@ -383,6 +383,19 @@ HTML provides more tags with semantic meaning.
 <nav> tag is navigation for the page
 
 ----------------------------------------------
-CHAPTER 2 - LESSON 5 - CSS color
+CHAPTER 2 - LESSON 5 - CSS color - part 1
 ----------------------------------------------
+
+4 different ways to add color;
+color name; 
+hex (computer code);
+rgb;
+hsl;
+
+----------------------------------------------
+CHAPTER 2 - LESSON 6 - CSS Color - pasrt 2
+----------------------------------------------
+
+changes made in google chrome browser 
+are not saved to the html
 
