@@ -18,16 +18,26 @@
 		text-align: justify;
 	}
 
+/*
+	/*tag inside p tag - with class=italic */
 	p .italic {
     font-style: italic;
     font-weight: bold;
-}
-
-.italic {
+	}
+	
+	
+	/*tag p with class=italic */
+	p.italic {
     font-style: italic;
     font-weight: bold;
-}
-
+	}
+*/
+	
+	/*any tag with class=italic */
+	.italic {
+    font-style: italic;
+    font-weight: bold;
+	}
 
 </style>
 
@@ -39,7 +49,7 @@
 	<img id="miamiBuilding" src="images/miami.png" height="350" width="193">
 
 	<h1>the main heading</h1>
-	<p>
+	<p class="italic">
 	Studioweb is an interactive video question and answer training system. We focus on teaching the key basic concepts and techniques of web design and web programming.
 	</p>
 
