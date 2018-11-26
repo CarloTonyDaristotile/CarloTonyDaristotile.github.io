@@ -393,9 +393,33 @@ rgb;
 hsl;
 
 ----------------------------------------------
-CHAPTER 2 - LESSON 6 - CSS Color - pasrt 2
+CHAPTER 2 - LESSON 6 - CSS Color - part 2
 ----------------------------------------------
 
 changes made in google chrome browser 
 are not saved to the html
+
+----------------------------------------------
+CHAPTER 2 - LESSON 7 - CSS Color - part 3
+----------------------------------------------
+
+pages are loaded into the web page browser app memory.
+changes in chrome tools, is only changing 
+loaded info in browser memory.
+
+----------------------------------------------
+CHAPTER 2 - LESSON 8 - CSS Color - part 4
+----------------------------------------------
+
+to insert a comment on CSS use /* comments */
+how to find a color.
+click on the colored box to use the color picker
+hex color always starts with the # sign
+
+----------------------------------------------
+CHAPTER 2 - LESSON 9 - CSS Color - part 5
+----------------------------------------------
+
+code inside of comments are ignored by browsers
+
 
