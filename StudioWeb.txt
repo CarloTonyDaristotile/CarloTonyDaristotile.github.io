@@ -456,3 +456,13 @@ automatic settings of your tag
 
 some CSS values do not work - that's life
 
+----------------------------------------------
+CHAPTER 2 - LESSON 12 
+- CSS Styling text - complex selectors
+----------------------------------------------
+
+THE SPACE AFTER THE P CAUSES A DIFFERENCE
+CSS p.italic {}  works for HTML <p class="italic"></p>
+CSS p .italic {} works for HTML <p>P<span class="italic">I</span></p>
+CSS .italic {} works for HTML any tag with class="italic"
+
