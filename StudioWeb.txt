@@ -382,3 +382,7 @@ semantic = logical; acceptable
 HTML provides more tags with semantic meaning. 
 <nav> tag is navigation for the page
 
+----------------------------------------------
+CHAPTER 2 - LESSON 5 - CSS color
+----------------------------------------------
+
