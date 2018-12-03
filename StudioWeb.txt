@@ -466,3 +466,20 @@ CSS p.italic {}  works for HTML <p class="italic"></p>
 CSS p .italic {} works for HTML <p>P<span class="italic">I</span></p>
 CSS .italic {} works for HTML any tag with class="italic"
 
+----------------------------------------------
+CHAPTER 2 - LESSON 13 
+- Styling text - font weight - part 2
+----------------------------------------------
+
+"p .italic" ( a tag selector + class selector with space
+in between ) = class that is inside the tag is selected
+ works for HTML <p>P<span class="italic">I</span></p>
+
+p { font-style: italic,normal,oblique;
+    font-weight: bold, normal, 500, 900, bolder;
+} 500=normal,900=bold
+
+"p.italic" ( a tag selector + class selector with no space
+in between ) = p tag with that class is selected
+ works for HTML <p class="italic"></p>
+
