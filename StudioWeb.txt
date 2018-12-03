@@ -483,3 +483,10 @@ p { font-style: italic,normal,oblique;
 in between ) = p tag with that class is selected
  works for HTML <p class="italic"></p>
 
+----------------------------------------------
+CHAPTER 2 - LESSON 14 
+- Font families - part 1
+----------------------------------------------
+
+
+
