@@ -494,5 +494,5 @@ body { font-family:Georgia, "Times New Roman", Times, serif;
 
 if first option not available, use the second option , third, etc.
 
-Serif(with little flares at the end), Sans-serif(doesn't have serif) are the 2 major font groups
+Serif(with little flares at the end), Sans-serif(doesn't have serif), Monospace are the 3 major font groups
 
