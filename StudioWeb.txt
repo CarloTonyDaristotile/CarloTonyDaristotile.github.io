@@ -488,5 +488,11 @@ CHAPTER 2 - LESSON 14
 - Font families - part 1
 ----------------------------------------------
 
+body { font-family:Georgia, "Times New Roman", Times, serif; 
+       font-size: 14px;
+       }
 
+if first option not available, use the second option , third, etc.
+
+Serif(with little flares at the end), Sans-serif(doesn't have serif) are the 2 major font groups
 
