@@ -1,0 +1,333 @@
+
+StudioWeb
+
+----------------------------------------------
+CHAPTER 1 - LESSON 1
+----------------------------------------------
+
+1) HTML creates the foundation of all websites
+2) CSS
+3) JavaScript
+
+----------------------------------------------
+CHAPTER 1 - LESSON 2
+----------------------------------------------
+
+blue is html
+Sublimetext is a code editor app, to make coding easier
+
+HTML h is HYPER TEXT MARKUP LANGUAGE.
+
+HYPER TEXT ? super fast. facebook news is 100s ties faster than news paper print.
+
+MARKUP LANGUAGE ? Computer Language gives information about a page or to mark up a page.
+More than 1 Markup Langugage, but HTML is the most important.
+
+HTML is the "markup language" of "hyper test"
+- describes what is in the web page
+
+----------------------------------------------
+CHAPTER 2 - LESSON 4
+----------------------------------------------
+
+1. simple text editors
+2. code editors
+- WEB DESIGN APPS
+- sublime text
+- notepadd ++
+3. WYSIWYG editors
+- adobe dreamweaver
+
+----------------------------------------------
+CHAPTER 2 - LESSON 5
+----------------------------------------------
+
+- adding an image does not become part of the web page
+- different than powerpoint, or word. image is EMBEDDED
+- html does NOT EMBED the image. just points to picture or video.
+
+----------------------------------------------
+CHAPTER 3 - LESSON 1
+----------------------------------------------
+
+- index.html is the first page web servers send out when you visit a site
+- 
+
+----------------------------------------------
+CHAPTER 3 - LESSON 2
+----------------------------------------------
+
+- <!DOCTYPE html> - latest version of html 
+- this above is first thing in html doc
+- head section - not viewable except the titile tag
+- body section
+
+----------------------------------------------
+CHAPTER 3 - LESSON 3
+----------------------------------------------
+
+- 1st rule. tags lower case text. upper case still works.
+- DOCTYPE in upper as a convention to mandatory. example <!DOCTYPE html>
+- 2nd rule. proper tag nesting
+
+----------------------------------------------
+CHAPTER 3 - LESSON 4
+----------------------------------------------
+
+- keep the tags where they belong.
+  - example first <head> tag then <body> tag
+- 90% in body tag
+- keep tags closed
+
+----------------------------------------------
+CHAPTER 3 - LESSON 5
+----------------------------------------------
+
+types of html
+- HTML - 1991
+- HTML 4.0 
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN>
+- XHTML - 2000 - DEAD
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN>
+- HTML5 - 2014 - simpler more powerful
+	<!DOCTYPE html>
+
+----------------------------------------------
+CHAPTER 3 - LESSON 6
+----------------------------------------------
+
+<p> tags add a line break BEFORE and AFTER the <p> tag
+
+----------------------------------------------
+CHAPTER 4 - LESSON 1
+----------------------------------------------
+
+- websites are a bunch of html pages connected together
+- spaces in file name is a big NO NO
+- use self describing html page names
+
+----------------------------------------------
+CHAPTER 4 - LESSON 2
+----------------------------------------------
+
+- using code templates is a smart coders strategy
+- keep naming consistent
+
+----------------------------------------------
+CHAPTER 4 - LESSON 3
+----------------------------------------------
+
+- LINK TAG - hyper link tag
+- <a href=""></a> - href = hyper text reference
+
+----------------------------------------------
+CHAPTER 4 - LESSON 9
+----------------------------------------------
+
+- CLIENTS VS SERVERS
+
+ - SERVERS have serve software installed on them. 
+    - Beefy Powerful. But don't have to be
+     - Server Apps and Software
+      - Web Server App - WebSite Server - sends websites
+
+ - CLIENT - home pc / cell phone
+
+ - request response cycle
+
+ - HOSTING when you rent space from company that has server computer
+  - so you can upload your html etc.. on their servers
+   - so your site can be public
+
+ - WebBrowser is the Client App
+
+----------------------------------------------
+CHAPTER 4 - LESSON 10
+----------------------------------------------
+
+- ROOTs of the website
+- our example is the first folder with index.html
+
+----------------------------------------------
+CHAPTER 4 - LESSON 11
+----------------------------------------------
+
+- LOREM IPSUM - place holder filler text
+- html5 has list tags
+
+----------------------------------------------
+CHAPTER 5 - LESSON 1
+----------------------------------------------
+
+- 9 official basic tags
+    <html> <title> <body> <h1> to <h6> <p> <br> <!-- --> <hr>
+- Stefan 9 essential tags
+    <h> <p> <a> <br> <img> <ul> <ol> <li> <div>
+
+----------------------------------------------
+CHAPTER 5 - LESSON 2 - The break tag
+----------------------------------------------
+
+Only <br>. Note </br> does not exist.
+
+----------------------------------------------
+CHAPTER 5 - LESSON 3 - Images - part 1
+----------------------------------------------
+
+3 image types you can use JPEG, PNG, GIF
+
+JPEG - great for photos
+
+PNG - more flexible - great for stick drawings and text - logos - most advanced type
+
+GIF - like PNG but more tiny, not as advanced as PNG
+
+Photoshop is most popular image app
+
+----------------------------------------------
+CHAPTER 5 - LESSON 4 - Images - part 2
+----------------------------------------------
+
+JPEG is HD file type. Tremendous file size. 16 million colors.
+
+PNG can have graduated blended transparency.
+
+GIF can have transparent backgrounds. Is oldest and not HD file format, small and tiny. Only 256 colors. You can make Animations.
+
+----------------------------------------------
+CHAPTER 5 - LESSON 5 - Images - part 3
+----------------------------------------------
+
+compress = squish or make smaller
+
+85% gives good quality compression
+
+----------------------------------------------
+CHAPTER 5 - LESSON 5 - Images - part 4
+----------------------------------------------
+
+measure everything in pixels
+
+src = source
+
+----------------------------------------------
+CHAPTER 5 - LESSON 7 - Images - part 5
+----------------------------------------------
+
+ CSS - computer language used to add style to web pages
+ Every html element has the attribute <... style="">
+<img style="width: 100px; height: 100px" src="images/frog-circle.jpg">
+
+----------------------------------------------
+CHAPTER 5 - LESSON 7 - Images - part 6
+----------------------------------------------
+
+Wrap image tag inside a link tag, with a solid border
+	<a target="new" href="http://www.studioweb.com">
+		<img style="border: 5px; border-style: solid;" src="images/frog-square.jpg">
+	</a>
+
+HTTP = hypertext transfer protocol
+way in which web browsers comunicate with servers
+client-server based system
+
+"http://" is a command that says:'use the hypertext transfer protocol'
+a way or method of how to comunicate
+
+----------------------------------------------
+CHAPTER 5 - LESSON 9 - HTML list - part 1
+----------------------------------------------
+
+Ordered List <ol>
+	Must have List Item inside <li>
+<ol>
+	<li>Apples</li>
+	<li>Bananas</li>
+	<li>Cherries</li>
+	<li>Potatoes</li>
+</ol>
+     
+UnOrdered List <ul>
+	Must have List Item inside <li>
+		
+<ul>
+	<li>Apples</li>
+	<li>Bananas</li>
+	<li>Cherries</li>
+	<li>Potatoes</li>
+</ul>
+
+----------------------------------------------
+CHAPTER 5 - LESSON 10 - HTML list - part 2
+----------------------------------------------
+
+<ol type="1">
+	<li>Apples</li>
+	<li>Bananas</li>
+</ol>
+
+<ol type="A">
+	<li>Apples</li>
+	<li>Bananas</li>
+</ol>
+
+<ol type="a">
+	<li>Apples</li>
+	<li>Bananas</li>
+</ol>
+
+<ol type="I">
+	<li>Apples</li>
+	<li>Bananas</li>
+</ol>
+
+DESCRIPTION LIST
+<dl>
+	<dt>DATA TERM</dt> 
+	<dd>DATA DESCRIPTION</dd>
+	<dt>Coffee</dt> 
+	<dd>- black hot drink</dd>
+	<dt>Milk</dt>
+	<dd>- white cold drink</dd>
+	<dt>Frogs</dt>
+	<dd>- Tasty breakfast food. Tastes like chicken.</dd>
+</dl>
+
+----------------------------------------------
+CHAPTER 5 - LESSON 11 - Text formatting
+----------------------------------------------
+
+HTML is for structure CSS is for style
+
+<strong></strong>
+
+----------------------------------------------
+CHAPTER 5 - LESSON 12 - Inline vs block tags
+----------------------------------------------
+
+<div> short for division
+- are neutral container element
+- the WHOLE idea is to Contain other Tags!!!
+- tags create sections/divisions in your pages
+- one of the most important tags today
+- BLOCK LEVEL TAG - has a box around it
+also <p> is a BLOCK LEVEL TAG
+
+<span> shor for span
+- are neutral container element
+- is used to section off pieces of text ... but span tags don't mess with the flow of text like div tags do
+- INLINE TAG - goes with the flow
+
+Cold Folding = folding your code!
+
+----------------------------------------------
+CHAPTER 5 - LESSON 13 - HTML comments
+----------------------------------------------
+
+<!-- --> these are not displayed
+comments are ways to leave messages in the code
+
+How web pages are processed by the browser?
+Starts at the Top to Down
+<!DOCTYPE html> etc..
+Top Down has a huge impact
