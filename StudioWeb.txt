@@ -349,6 +349,10 @@ CHAPTER 2 - LESSON 2 - External CSS
   
 use <link> to connect "structure.css" to "ch2-lesson-1.html"
 
+<head>
+	<link href="structure.css" rel="stylesheet">
+</head>
+
 <link> allows you to connect CSS stylesheets to your 
 HTML pages to keep your HTML pages clean
 
