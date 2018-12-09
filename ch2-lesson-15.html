@@ -23,13 +23,27 @@
 
 		/* web safe fonts */
 		font-size: 16px;
-		font-family: "Times New Roman", Times, serif;
-
+		/*font-family: "Times New Roman", Times, serif;
+		font-family: "Lucida Console", monospace;*/
 	}
 
 	p .italic {
     font-style: italic;
     font-weight: bold;
+	}
+	
+	.monospace { 
+		font-family: monospace;
+	}
+	
+	.serif { 
+		font-family: serif;
+	}
+	
+	.sansserif { 
+		font-family: sans-serif;
+	}
+	
 }
 
 
@@ -59,9 +73,23 @@
 	</ol>
 
 	<h3>Another Sub Heading</h3>
+	
 	<p>
 	And so we have yet another paragraph of text that follows our odered list. The list is called an ordered list because it has an order imposed upon it by the web browser - the list of items are numbered.
 	</p>
+	
+	<p class="monospace">
+	ABCabc in monospace
+	</p>
+	
+	<p class="serif">
+	ABCabc in serif
+	</p>
+	
+	<p class="sansserif">
+	ABCabc in sans-serif
+	</p>
+	
 </div><!-- closing centerDoc  -->
 
 <nav id="navigation">
