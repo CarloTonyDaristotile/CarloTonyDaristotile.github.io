@@ -498,5 +498,70 @@ body { font-family:Georgia, "Times New Roman", Times, serif;
 
 if first option not available, use the second option , third, etc.
 
-Serif(with little flares at the end), Sans-serif(doesn't have serif), Monospace are the 3 major font groups
+Serif(with little flares at the end), 
+Sans-serif(doesn't have serif), 
+Monospace are the 3 major font groups
+
+----------------------------------------------
+CHAPTER 2 - LESSON 15 
+- Font families - part 2
+----------------------------------------------
+
+body { font-family:Georgia, "Times New Roman", Times, serif; 
+	   font-family: "Lucida Console", monospace;
+       font-size: 14px;
+       }
+.monospace { font-family: monospace;
+	   }
+	   
+"Times New Roman" requires quotes isnce there is more no one word.
+"Times New Roman" is of SERIF Family
+"Lucida Console" is of MONOSPACE Family
+
+remember last code wins
+
+CSS cascading style sheet. like a water fall cascade. last wins.
+
+----------------------------------------------
+CHAPTER 2 - LESSON 16 
+- Font size - part 1
+----------------------------------------------
+
+DOUBLE CSS TAG SELECTOR
+h1, h3  {
+		color: #9FBBD1;
+		text-transform:capitalize;
+		font-weight: bold;
+		font-family: "Lucida Console", monospace;
+		font-size: 24px;
+	}
+
+p {font-size:16px;} is the default
+
+----------------------------------------------
+CHAPTER 2 - LESSON 17 
+- Font size - part 2
+----------------------------------------------
+
+font-size styles:
+1. fixed-size / pixels / 24px
+2. relative / viewport / 3 percent / 3vw
+
+
+"font-size=24px"
+resizing the window does not change the font size
+(px) or pixels = absolute or fixed length unit
+
+"relative = flexes and flows "
+"font-size=2vw"
+vw = viewport width
+   = relative to the width of the window
+1vw = 1% of thw width of the window
+
+----------------------------------------------
+CHAPTER 2 - LESSON 18 
+- Font size - part 3
+----------------------------------------------
+
+
 
