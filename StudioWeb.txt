@@ -580,4 +580,40 @@ recal browser default font size = 16px
 
 2em = 2 times the base {font-size:16px;} or whatever 
 
+----------------------------------------------
+CHAPTER 2 - LESSON 19 
+- Parent / Child - part 1
+----------------------------------------------
+
+CHILD TAG and PARENT TAG
+<ol> is parent tag
+<li> is child tag - any tag inside another tag
+<> any tag inside a child tag is a grandchild tag
+
+<> sibling tags if they brothers and sisters
+
+----------------------------------------------
+CHAPTER 2 - LESSON 20
+- Parent / Child - part 2
+----------------------------------------------
+
+cascade = set of rules that tell you how the rules
+translate across the entir site
+
+inheritance = something that is passed on from generation to 
+generation (from parents to their children)
+
+there are cretain properties that can be inherited
+by child tags
+
+font-family of "body" will be inherited by "h1","h2",and "p" tags
+
+----------------------------------------------
+CHAPTER 2 - LESSON 21
+- Parent / Child - part 3
+----------------------------------------------
+
+another tag that is inherited is "color".
+
+last code wins
 
