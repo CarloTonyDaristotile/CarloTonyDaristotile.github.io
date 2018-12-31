@@ -1,7 +1,10 @@
 
 StudioWeb
 
+https://cloud.studioweb.com
+
 ----------------------------------------------
+HTML
 CHAPTER 1 - LESSON 1
 ----------------------------------------------
 
@@ -10,6 +13,7 @@ CHAPTER 1 - LESSON 1
 3) JavaScript
 
 ----------------------------------------------
+HTML
 CHAPTER 1 - LESSON 2
 ----------------------------------------------
 
@@ -27,6 +31,7 @@ HTML is the "markup language" of "hyper test"
 - describes what is in the web page
 
 ----------------------------------------------
+HTML
 CHAPTER 2 - LESSON 4
 ----------------------------------------------
 
@@ -39,6 +44,7 @@ CHAPTER 2 - LESSON 4
 - adobe dreamweaver
 
 ----------------------------------------------
+HTML
 CHAPTER 2 - LESSON 5
 ----------------------------------------------
 
@@ -47,6 +53,7 @@ CHAPTER 2 - LESSON 5
 - html does NOT EMBED the image. just points to picture or video.
 
 ----------------------------------------------
+HTML
 CHAPTER 3 - LESSON 1
 ----------------------------------------------
 
@@ -54,6 +61,7 @@ CHAPTER 3 - LESSON 1
 - 
 
 ----------------------------------------------
+HTML
 CHAPTER 3 - LESSON 2
 ----------------------------------------------
 
@@ -63,6 +71,7 @@ CHAPTER 3 - LESSON 2
 - body section
 
 ----------------------------------------------
+HTML
 CHAPTER 3 - LESSON 3
 ----------------------------------------------
 
@@ -71,6 +80,7 @@ CHAPTER 3 - LESSON 3
 - 2nd rule. proper tag nesting
 
 ----------------------------------------------
+HTML
 CHAPTER 3 - LESSON 4
 ----------------------------------------------
 
@@ -80,6 +90,7 @@ CHAPTER 3 - LESSON 4
 - keep tags closed
 
 ----------------------------------------------
+HTML
 CHAPTER 3 - LESSON 5
 ----------------------------------------------
 
@@ -93,12 +104,14 @@ types of html
 	<!DOCTYPE html>
 
 ----------------------------------------------
+HTML
 CHAPTER 3 - LESSON 6
 ----------------------------------------------
 
 <p> tags add a line break BEFORE and AFTER the <p> tag
 
 ----------------------------------------------
+HTML
 CHAPTER 4 - LESSON 1
 ----------------------------------------------
 
@@ -107,6 +120,7 @@ CHAPTER 4 - LESSON 1
 - use self describing html page names
 
 ----------------------------------------------
+HTML
 CHAPTER 4 - LESSON 2
 ----------------------------------------------
 
@@ -114,6 +128,7 @@ CHAPTER 4 - LESSON 2
 - keep naming consistent
 
 ----------------------------------------------
+HTML
 CHAPTER 4 - LESSON 3
 ----------------------------------------------
 
@@ -121,6 +136,7 @@ CHAPTER 4 - LESSON 3
 - <a href=""></a> - href = hyper text reference
 
 ----------------------------------------------
+HTML
 CHAPTER 4 - LESSON 9
 ----------------------------------------------
 
@@ -142,6 +158,7 @@ CHAPTER 4 - LESSON 9
  - WebBrowser is the Client App
 
 ----------------------------------------------
+HTML
 CHAPTER 4 - LESSON 10
 ----------------------------------------------
 
@@ -149,6 +166,7 @@ CHAPTER 4 - LESSON 10
 - our example is the first folder with index.html
 
 ----------------------------------------------
+HTML
 CHAPTER 4 - LESSON 11
 ----------------------------------------------
 
@@ -156,6 +174,7 @@ CHAPTER 4 - LESSON 11
 - html5 has list tags
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 1
 ----------------------------------------------
 
@@ -165,12 +184,14 @@ CHAPTER 5 - LESSON 1
     <h> <p> <a> <br> <img> <ul> <ol> <li> <div>
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 2 - The break tag
 ----------------------------------------------
 
 Only <br>. Note </br> does not exist.
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 3 - Images - part 1
 ----------------------------------------------
 
@@ -185,6 +206,7 @@ GIF - like PNG but more tiny, not as advanced as PNG
 Photoshop is most popular image app
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 4 - Images - part 2
 ----------------------------------------------
 
@@ -195,6 +217,7 @@ PNG can have graduated blended transparency.
 GIF can have transparent backgrounds. Is oldest and not HD file format, small and tiny. Only 256 colors. You can make Animations.
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 5 - Images - part 3
 ----------------------------------------------
 
@@ -203,6 +226,7 @@ compress = squish or make smaller
 85% gives good quality compression
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 5 - Images - part 4
 ----------------------------------------------
 
@@ -211,6 +235,7 @@ measure everything in pixels
 src = source
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 7 - Images - part 5
 ----------------------------------------------
 
@@ -219,6 +244,7 @@ CHAPTER 5 - LESSON 7 - Images - part 5
 <img style="width: 100px; height: 100px" src="images/frog-circle.jpg">
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 7 - Images - part 6
 ----------------------------------------------
 
@@ -235,6 +261,7 @@ client-server based system
 a way or method of how to comunicate
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 9 - HTML list - part 1
 ----------------------------------------------
 
@@ -258,6 +285,7 @@ UnOrdered List <ul>
 </ul>
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 10 - HTML list - part 2
 ----------------------------------------------
 
@@ -294,6 +322,7 @@ DESCRIPTION LIST
 </dl>
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 11 - Text formatting
 ----------------------------------------------
 
@@ -302,6 +331,7 @@ HTML is for structure CSS is for style
 <strong></strong>
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 12 - Inline vs block tags
 ----------------------------------------------
 
@@ -321,6 +351,7 @@ also <p> is a BLOCK LEVEL TAG
 Cold Folding = folding your code!
 
 ----------------------------------------------
+HTML
 CHAPTER 5 - LESSON 13 - HTML comments
 ----------------------------------------------
 
@@ -340,6 +371,7 @@ CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS CSS
 ----------------------------------------------
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 2 - External CSS
 ----------------------------------------------
 
@@ -357,6 +389,7 @@ use <link> to connect "structure.css" to "ch2-lesson-1.html"
 HTML pages to keep your HTML pages clean
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 3 - External CSS and Cleaner Code
 ----------------------------------------------
 
@@ -368,6 +401,7 @@ use HTML comments <!-- --> to help identify tags
 indenting makes code look clearer, use the tab key
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 4 - <nav> tag & semantic meaning
 ----------------------------------------------
 
@@ -387,6 +421,7 @@ HTML provides more tags with semantic meaning.
 <nav> tag is navigation for the page
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 5 - CSS color - part 1
 ----------------------------------------------
 
@@ -397,6 +432,7 @@ rgb;
 hsl;
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 6 - CSS Color - part 2
 ----------------------------------------------
 
@@ -404,6 +440,7 @@ changes made in google chrome browser
 are not saved to the html
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 7 - CSS Color - part 3
 ----------------------------------------------
 
@@ -412,6 +449,7 @@ changes in chrome tools, is only changing
 loaded info in browser memory.
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 8 - CSS Color - part 4
 ----------------------------------------------
 
@@ -421,6 +459,7 @@ click on the colored box to use the color picker
 hex color always starts with the # sign
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 9 - CSS Color - part 5
 ----------------------------------------------
 
@@ -435,6 +474,7 @@ code inside of comments are ignored by browsers
 browsers read your code from the top down
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 10 - CSS Styling text
 ----------------------------------------------
 
@@ -445,6 +485,7 @@ text-decoration: underline; }
 p { text-indent: 30px;}
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 11 
 - CSS Styling text - font weight - part 1
 ----------------------------------------------
@@ -461,6 +502,7 @@ automatic settings of your tag
 some CSS values do not work - that's life
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 12 
 - CSS Styling text - complex selectors
 ----------------------------------------------
@@ -471,6 +513,7 @@ CSS p .italic {} works for HTML <p>P<span class="italic">I</span></p>
 CSS .italic {} works for HTML any tag with class="italic"
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 13 
 - Styling text - font weight - part 2
 ----------------------------------------------
@@ -488,6 +531,7 @@ in between ) = p tag with that class is selected
  works for HTML <p class="italic"></p>
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 14 
 - Font families - part 1
 ----------------------------------------------
@@ -503,6 +547,7 @@ Sans-serif(doesn't have serif),
 Monospace are the 3 major font groups
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 15 
 - Font families - part 2
 ----------------------------------------------
@@ -523,6 +568,7 @@ remember last code wins
 CSS cascading style sheet. like a water fall cascade. last wins.
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 16 
 - Font size - part 1
 ----------------------------------------------
@@ -539,6 +585,7 @@ h1, h3  {
 p {font-size:16px;} is the default
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 17 
 - Font size - part 2
 ----------------------------------------------
@@ -559,6 +606,7 @@ vw = viewport width
 1vw = 1% of thw width of the window
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 18 
 - Font size - part 3
 ----------------------------------------------
@@ -581,6 +629,7 @@ recal browser default font size = 16px
 2em = 2 times the base {font-size:16px;} or whatever 
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 19 
 - Parent / Child - part 1
 ----------------------------------------------
@@ -593,6 +642,7 @@ CHILD TAG and PARENT TAG
 <> sibling tags if they brothers and sisters
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 20
 - Parent / Child - part 2
 ----------------------------------------------
@@ -609,6 +659,7 @@ by child tags
 font-family of "body" will be inherited by "h1","h2",and "p" tags
 
 ----------------------------------------------
+CSS
 CHAPTER 2 - LESSON 21
 - Parent / Child - part 3
 ----------------------------------------------
