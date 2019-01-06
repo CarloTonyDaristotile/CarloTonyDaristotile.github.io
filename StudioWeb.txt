@@ -687,4 +687,9 @@ browsers skips notes/comments and do not process them
 use quotation marks (" ") for font names that have
 more than one word. i.e. "Times New Roman"
 
+----------------------------------------------
+CSS
+CHAPTER 3 - LESSON 2:
+Google fonts - part 1
+----------------------------------------------
 
